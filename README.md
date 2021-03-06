@@ -1,4 +1,4 @@
-# SpaceXLaunch
+# SpaceXLaunch - a simple SpaceX Launches MVVM x RxSwift iOS app with Unit Test
 
 Credit:
 
