@@ -4,7 +4,7 @@ Walkthrough:
 
 ![](SpaceXLaunch.gif)
 
-You can read my articles on how to step by step build this project:
+You can read my articles on how to build this project step by step:
 
 <a target="_blank" href="https://bit.ly/3x6PE4W">Build a simple SpaceX Launches iOS app with MVVM and RxSwift</a>
 
