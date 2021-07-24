@@ -6,9 +6,11 @@ Walkthrough:
 
 You can read my articles on how to build this project step by step:
 
-<a target="_blank" href="https://bit.ly/3x6PE4W">Build a simple SpaceX Launches iOS app with MVVM and RxSwift</a>
+<ol>
+  <li><a target="_blank" href="https://bit.ly/3x6PE4W">Build a simple SpaceX Launches iOS app with MVVM and RxSwift</a></li>
+  <li><a target="_blank" href="https://bit.ly/3kROojC">Implement Unit Testing in a simple iOS app with MVVM and RxSwift</a></li>
+</ol>  
 
-<a target="_blank" href="https://bit.ly/3kROojC">Implement Unit Testing in a simple iOS app with MVVM and RxSwift</a>
 
 Credit:
 
