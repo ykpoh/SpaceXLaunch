@@ -4,6 +4,12 @@ Walkthrough:
 
 ![](SpaceXLaunch.gif)
 
+You can read my articles on how to step by step build this project:
+
+<a target="_blank" href="https://bit.ly/3x6PE4W">Build a simple SpaceX Launches iOS app with MVVM and RxSwift</a>
+
+<a target="_blank" href="https://bit.ly/3kROojC">Implement Unit Testing in a simple iOS app with MVVM and RxSwift</a>
+
 Credit:
 
 <a target="_blank" href="https://icons8.com/icons/set/launched-rocket">Launch icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
